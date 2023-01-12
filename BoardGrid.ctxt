@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=BoardGrid
+comment1.params=xcoord\ ycoord\ xcolumn\ yrow
+comment1.target=BoardGrid(int,\ int,\ int,\ int)
+comment2.params=count
+comment2.target=void\ setrobot(int)
+comment3.params=count
+comment3.target=void\ setrobottext(int)
+comment4.params=visual\ targetpiece
+comment4.target=void\ backgroundSet(int,\ java.util.ArrayList)
+comment5.params=visual\ targetpiece
+comment5.target=void\ backgroundSetComplex(int,\ java.util.ArrayList)
+comment6.params=
+comment6.target=int\ getx()
+comment7.params=
+comment7.target=int\ gety()
+comment8.params=g
+comment8.target=void\ paintComponent(java.awt.Graphics)
+numComments=9
